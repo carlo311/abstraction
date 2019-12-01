@@ -10,11 +10,5 @@ class Card{
 
 
 
-	Card(String type, int damage){		//constructor
-		this.type = type;
-		this.damage = damage;
-		this.heal = damage;
-		
-	}
 
 }
